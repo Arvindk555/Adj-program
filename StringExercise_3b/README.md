@@ -6,5 +6,5 @@ reversestring o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExer
 
 palindromechecker o/p- https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20palindrome.png
 
-nullorwhitespace o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/NullOrWhitespaceCheck.java
+nullorwhitespace o/p- https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20null.png
 
