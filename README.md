@@ -1,10 +1,10 @@
-OUTPUTS:-
+# OUTPUTS:-
 
-1a LinkedList o/p:-
+# 1a LinkedList o/p:-
 LinkedList o/p:- https://github.com/Arvindk555/Adj-program/blob/main/1a_LinkedList/1a.png
 
 
-1b ArrayList o/p:-
+# 1b ArrayList o/p:-
 
 SearchColor O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20search.png
 
@@ -17,7 +17,7 @@ ColorRemoveByIndex O/P:-https://github.com/Arvindk555/Adj-program/blob/main/Arra
 ColorRemove O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20remove.png
 
 
-1c LinkedList o/p:-
+# 1c LinkedList o/p:-
 
 LinkedListSwapElement O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20Swap.png
 
