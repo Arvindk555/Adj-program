@@ -6,17 +6,25 @@ LinkedList o/p:- https://github.com/Arvindk555/Adj-program/blob/main/1a_LinkedLi
 
 1b ArrayList o/p:-
 SearchColor O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20search.png
+
 ColorSubList O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20sublist.png
+
 ColorSort O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20sort.png
+
 ColorRemoveByIndex O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20removebyindex.png
+
 ColorRemove O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20remove.png
 
 
 1c LinkedList o/p:-
 LinkedListSwapElement O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20Swap.png
+
 LinkedListReverseIteration O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20reverse.png
+
 LinkedListOfferLast O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20offer.png
+
 LinkedListIteratorExample O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20iterator.png
+
 LinkedListElementPositions O/P:-https://github.com/Arvindk555/Adj-program/blob/main/1c_LinkedList/1c%20elementpos.png
 
 
@@ -35,18 +43,26 @@ string operations o/p:- https://github.com/Arvindk555/Adj-program/blob/main/Stri
 
 3b String Exercise o/p:-
 whitespaceremover o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20whitespace.png
+
 substringcounter o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20substring.png
+
 reversestring o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20reverse.png
+
 palindromechecker o/p- https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20palindrome.png
+
 nullorwhitespace o/p- https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3b/3b%20null.png
 
 
 
 3c String Exercise o/p:-
 wordcounter o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3c/3c%20wordcounter.png
+
 truncatestring o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3c/3c%20truncate.png
+
 randomstringgenerator o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3c/3c%20randomstring.png
+
 numericcheck o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3c/3c%20Numeric.png
+
 capitalizewords o/p-https://github.com/Arvindk555/Adj-program/blob/main/StringExercise_3c/3c%20capitalize.png
 
 
@@ -93,8 +109,11 @@ servlet program prime number o/p:- https://github.com/Arvindk555/Adj-program/blo
 
 7a Session Management using JSP program o/p:-
 session management start o/p- https://github.com/Arvindk555/Adj-program/blob/main/Session%20Management%20using%20JSP%20program_7a/7a.png
+
 session management Welcome message o/p-https://github.com/Arvindk555/Adj-program/blob/main/Session%20Management%20using%20JSP%20program_7a/7aa.png
+
 Display the session o/p:- https://github.com/Arvindk555/Adj-program/blob/main/Session%20Management%20using%20JSP%20program_7a/7aaa.png
+
 Display the session end o/p:-https://github.com/Arvindk555/Adj-program/blob/main/Session%20Management%20using%20JSP%20program_7a/7aaaa.png
 
 
