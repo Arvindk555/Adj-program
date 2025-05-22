@@ -5,6 +5,7 @@ LinkedList o/p:- https://github.com/Arvindk555/Adj-program/blob/main/1a_LinkedLi
 
 
 1b ArrayList o/p:-
+
 SearchColor O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20search.png
 
 ColorSubList O/P:-https://github.com/Arvindk555/Adj-program/blob/main/ArrayList_1b/1b%20sublist.png
